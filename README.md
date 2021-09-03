@@ -32,7 +32,11 @@ Appium’s functionality resembles the one of Selenium, a popular test automatio
 
 ## List of bugs:
 https://github.com/armin-sliide-interview/sliide-initial-interview/issues/4 - Blocker bug
+
 https://github.com/armin-sliide-interview/sliide-initial-interview/issues/3 - Blocker bug
+
 https://github.com/armin-sliide-interview/sliide-initial-interview/issues/5 - Blocker bug
+
 https://github.com/armin-sliide-interview/sliide-initial-interview/issues/2 - Low priority
+
 https://github.com/armin-sliide-interview/sliide-initial-interview/issues/1 - Low priority
