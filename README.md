@@ -29,3 +29,10 @@ Appium’s functionality resembles the one of Selenium, a popular test automatio
 2. Setup Android Studio and Android SDK: https://developer.android.com/studio
 3. Setup Maven: https://maven.apache.org/install.html
 4. Open up a project and run the following commands to run the tests: mvn test -Dtest=LoginTests -DplatformVersion="11.0" -DdeviceName="Pixel 4 XL API 30". Be aware that -DplatformVersion and -DdeviceName parameters must be defined and set through local Android SDK, meaning that you need to have this specific simulator name with this specific OS version install and up and running on your local. 
+
+## List of bugs:
+https://github.com/armin-sliide-interview/sliide-initial-interview/issues/4 - Blocker bug
+https://github.com/armin-sliide-interview/sliide-initial-interview/issues/3 - Blocker bug
+https://github.com/armin-sliide-interview/sliide-initial-interview/issues/5 - Blocker bug
+https://github.com/armin-sliide-interview/sliide-initial-interview/issues/2 - Low priority
+https://github.com/armin-sliide-interview/sliide-initial-interview/issues/1 - Low priority
